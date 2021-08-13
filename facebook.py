@@ -1,9 +1,4 @@
-#!usr/bin/python
-#Facebook Cracker Version 2 can crack into Facebook Database 100% without Interruption By Facebook Firewall !
-#This program is for educational purposes only.
-#Don't attack people facebook accounts it's illegal ! 
-#If you want to crack into someone's account, you must have the permission of the user. 
-#Mauritania Attacker is not responsible.
+#!/bin/python2
 
 
 import sys
@@ -13,21 +8,11 @@ import cookielib
 
 
 GHT = '''
-        +=======================================+
-        |..........Facebook Cracker v 2.........|
-        +---------------------------------------+
-        |#Author: Mauritania Attacker           |
-        |#Contact: www.fb.com/mauritanie.forever|
-        |#Date: 02/04/2013                      |
-        |#This tool is made for pentesting.     |
-        |#Changing the Description of this tool |
-        |Won't made you the coder ^_^ !!!       |
-        |#Respect Coderz ^_^                    |
-        |#I take no responsibilities for the    |
-        |  use of this program !                |
-        +=======================================+
-        |..........Facebook Cracker v 2.........|
-        +---------------------------------------+
+      ############################
+      #Author : MR.FAGHP         #
+      #Team   : MTI              #
+      #Yt     : FAGHP            #
+      ############################
 '''
 print "Note: - This tool can crack facebook account even if you don't have the email of your victim"
 print "# Hit CTRL+C to quit the program"
